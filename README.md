@@ -1,4 +1,4 @@
-# Beyond These Walls
+# Beyond the Walls, New Paths
 
 Responsive, buildless website for Keisha’s developing San Francisco mission.
 
@@ -18,7 +18,7 @@ No church qualification, tax exemption, tax deductibility, active shelter, housi
 
 ## Images
 
-Three local stock photos by Julia M Cameron from Pexels. Source links and the license link are on photo-credits.html. These depict illustrative community support, not actual Beyond These Walls participants. Fonts load from Google Fonts, with local browser fallbacks.
+Three local stock photos by Julia M Cameron from Pexels. Source links and the license link are on photo-credits.html. These depict illustrative community support, not actual Beyond the Walls, New Paths participants. Fonts load from Google Fonts, with local browser fallbacks.
 
 ## Resources
 
