@@ -4,3 +4,6 @@
 
 /* Keep purple visible across pages, with accessible gold accents. */
 .brand{color:#4c246c}.eyebrow{color:#6b3598}.topline{border-bottom:2px solid var(--gold)}header{border-bottom-color:#d3bee6}nav [aria-current]{text-decoration-color:#6b3598}.formbox{border-top:4px solid #6b3598}.founderhome{border-left:4px solid #6b3598}.button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid #8a51b7}.button.light{background:var(--gold-light);border-color:var(--gold-light)}.button.light:hover{background:var(--gold)}footer{border-top:3px solid #6b3598}
+
+/* Meaningful symbols for the three care cards. */
+.care-icon{display:flex;align-items:center;justify-content:center;width:54px;height:54px;margin-bottom:28px;border:1px solid var(--gold);border-radius:50%;background:#eee4f7;color:#6b3598}.care-icon svg{display:block;flex:none}@media(max-width:800px){.care-icon{margin-bottom:22px}}
