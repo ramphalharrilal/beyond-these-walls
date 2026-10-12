@@ -25,4 +25,7 @@ Three local stock photos by Julia M Cameron from Pexels. Source links and the li
 Official 211 Bay Area and San Francisco resource links checked October 6, 2026. No partnership is implied.
 
 ## October 7 update
-Royal gold and black brand direction, founder portrait supplied by Keisha Garrett, resource information open to everyone, and expanded clothing, showers, employment, and housing directory. Inquiries prepare an email to kweensfinancial615@gmail.com; they are not server-submitted. Donations remain unconfigured. Sensitive founder history remains unpublished.
+Royal gold and black brand direction, founder portrait supplied by Keisha Garrett, resource information open to everyone, and expanded clothing, showers, employment, and housing directory. Inquiries prepare an email to Beyondthesewalls023@gmail.com; they are not server-submitted. Donations remain unconfigured. Sensitive founder history remains unpublished.
+
+## October 11 update
+Royal purple, black, and gold palette across all pages. Contact email and the email-preparation form use Beyondthesewalls023@gmail.com.
