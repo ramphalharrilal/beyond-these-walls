@@ -7,3 +7,6 @@
 
 /* Meaningful symbols for the three care cards. */
 .care-icon{display:flex;align-items:center;justify-content:center;width:54px;height:54px;margin-bottom:28px;border:1px solid var(--gold);border-radius:50%;background:#eee4f7;color:#6b3598}.care-icon svg{display:block;flex:none}@media(max-width:800px){.care-icon{margin-bottom:22px}}
+
+/* Editorial founder layout and consistent photographic framing. */
+.founderhome{grid-template-columns:180px minmax(0,1fr)}.founderhome img{height:auto;aspect-ratio:3/4;object-position:center center;background:#e9e4df}.storyimage img.founderportrait{object-position:center center;object-fit:cover}.founderhome h3{line-height:1.15}.care-icon{border-radius:14px}.cards a,.textlink{font-variant-emoji:text}@media(max-width:800px){.founderhome{grid-template-columns:1fr}.founderhome img{width:180px;max-width:100%;height:auto;aspect-ratio:3/4}}
